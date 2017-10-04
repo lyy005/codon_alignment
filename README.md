@@ -1,7 +1,7 @@
 Performing codon alignment based on amino acid sequences: codon_alignment.pl
 
 Features:
- - Performing codon alignment for input CDS sequences
+ - Performing codon alignment for coding sequences (CDS)
  - Multiple alignment with MUSCLE (executable MUSCLE file needs to be added to current directory)
  - Customized the threshold for the percentage of non-gap basepairs in a multiple sequence alignment
  - Two codon tables are supported:
