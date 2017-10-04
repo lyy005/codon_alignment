@@ -23,5 +23,5 @@ perl codon_alignment.pl [cds fas] [codon table id] [minimum coverage]
 Example: 
  - Go to the example file directory 
  - cd ./examples
- - make multiple sequence alignments based on COX1 gene (mitochondrial codon table) and remove the sequences with < 70% non-gap basepairs
+ - Make multiple sequence alignments based on COX1 gene (mitochondrial codon table) and remove the sequences with < 70% non-gap basepairs
  - ../codon_alignment.pl COX1.fasta 5 0.7
