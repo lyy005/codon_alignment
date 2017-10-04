@@ -158,7 +158,7 @@ while (<NT>) {
                 print OT2 ">$nt_name\n$prot\n";
                 print OT3 "$nt_name\n$prot\n";
         }else{
-                print "Error: $nt_name. No corresponding amino acid\n";
+                print "Warning: $nt_name. No corresponding amino acid\n";
         }
 
 }
@@ -246,7 +246,7 @@ sub compare_cds_aa {
                                 $prot .= $codon;
                         }else{
                                 $prot .= $codon;
-                                print "Error codon\t$base\t$codon\n";
+                                print "Warning: the codon does not match the amino acid\t$base\t$codon\n";
                         }
 print "Stop codon found: (location: $j) $base\t$codon\n" if $CODE{$ARGV[1]}{$codon} eq "X";
 
