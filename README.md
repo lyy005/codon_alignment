@@ -18,4 +18,9 @@ perl codon_alignment.pl [cds fas] [codon table id] [minimum coverage]
  - [cds fas] 	    CDS sequences in fasta file
  - [codon table id]    1 for Standard Code, 5 for Invertebrate Mitochondrial Code
  - [minimum coverage]  Minimum coverage of non-gap basepairs in the multiple alignment (range from 0 to 1). 
-		    For example: 0.7 means sequences after the first round of multiple sequence alignment should have >= 70% of basepairs are non-gap
+		    For example: 0.7 means sequences after the first round of multiple sequence alignment should have >= 70% of non-gap basepairs
+
+Example: 
+  cd ./examples
+  # make multiple sequence alignments based on COX1 gene (mitochondrial codon table) and remove the sequences with < 70% non-gap basepairs
+  ../codon_alignment.pl COX1.fasta 5 0.7
