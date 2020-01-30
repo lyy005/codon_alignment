@@ -1,4 +1,4 @@
-# Codon-based alignment using coding sequences
+# The Alignment based on COdon using coding sequences (TACO)
 
 **Lastest version can be downloaded here:**
 https://github.com/lyy005/codon_alignment/releases
