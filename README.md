@@ -1,9 +1,9 @@
-Performing codon alignment based on amino acid sequences: codon_alignment.pl
+# Performing codon-based alignment using coding sequences
 
 **Lastest version can be downloaded here:**
 https://github.com/lyy005/codon_alignment/releases
 
-**Features:**
+## Features:
  - Performing codon alignment for coding sequences (CDS)
  - Multiple alignment with MAFFT (executable mafft-linsi file needs to be added to current directory)
  - Customized the threshold for the percentage of non-gap basepairs in a multiple sequence alignment
