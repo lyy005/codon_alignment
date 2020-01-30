@@ -1,6 +1,6 @@
 # The Alignment based on COdons (TACO)
 
-**Lastest version can be downloaded here:**
+**For the lastest version of TACO, please go to:**
 https://github.com/lyy005/codon_alignment/releases
 
 ## Features:
