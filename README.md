@@ -1,16 +1,22 @@
-# The Alignment based on COdon using coding sequences (TACO)
+# The Alignment based on COdons (TACO)
 
 **Lastest version can be downloaded here:**
 https://github.com/lyy005/codon_alignment/releases
 
 ## Features:
+
  - Performing codon alignment for coding sequences (CDS)
+ - Unaligned coding sequences are the only input needed (if using default universal codon table or invertebrate codon table)
  - Multiple alignment with MAFFT (executable mafft-linsi file needs to be added to current directory)
  - Customized the threshold for the percentage of non-gap basepairs in a multiple sequence alignment
  - Two codon tables are supported:
         1 - for The Standard Code;
         5 - for The Invertebrate Mitochondrial Code
         Details please refer to http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=tgencodes#SG2
+
+## Citation
+
+Li Y, Zhang R, Liu S, Donath A, Peters RS, Ware J, Misof B, Niehuis O, Pfrender ME, Zhou X. The molecular evolutionary dynamics of oxidative phosphorylation (OXPHOS) genes in Hymenoptera. BMC evolutionary biology. 2017 Dec 1;17(1):269.
 
 ## Prerequisites:
  - Download MAFFT (https://mafft.cbrc.jp/alignment/software/) and added the executable file mafft-linsi to current directory (i.e. codon_alignment directory).
