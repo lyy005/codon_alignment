@@ -10,7 +10,7 @@ Features:
         Details please refer to http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=tgencodes#SG2
 
 Prerequisites:
- - Download MUSCLE (https://www.drive5.com/muscle/downloads.htm) and added the executable file to current directory (i.e. codon_alignment directory).
+ - Download MAFFT (https://mafft.cbrc.jp/alignment/software/) and added the executable file mafft-linsi to current directory (i.e. codon_alignment directory).
 
 To run the script: 
 perl codon_alignment.pl [cds fas] [codon table id] [minimum coverage]
