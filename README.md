@@ -14,7 +14,7 @@ https://github.com/lyy005/codon_alignment/releases
         5 - for The Invertebrate Mitochondrial Genetic Code
  - Details about codon tables please refer to https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi
 
-## Citation
+## Citation:
 
 Li Y, Zhang R, Liu S, Donath A, Peters RS, Ware J, Misof B, Niehuis O, Pfrender ME, Zhou X. The molecular evolutionary dynamics of oxidative phosphorylation (OXPHOS) genes in Hymenoptera. BMC evolutionary biology. 2017 Dec 1;17(1):269.
 
