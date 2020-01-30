@@ -12,7 +12,7 @@ https://github.com/lyy005/codon_alignment/releases
  - Two codon tables are supported:
         1 - for The Standard Genetic Code;
         5 - for The Invertebrate Mitochondrial Genetic Code
- - Details about the codon table please refer to http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=tgencodes#SG2
+ - Details about codon tables please refer to http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=tgencodes#SG2
 
 ## Citation
 
