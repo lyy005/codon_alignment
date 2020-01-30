@@ -10,10 +10,9 @@ https://github.com/lyy005/codon_alignment/releases
  - Multiple alignment with MAFFT (executable mafft-linsi file needs to be added to current directory)
  - Customized the threshold for the percentage of non-gap basepairs in a multiple sequence alignment
  - Two codon tables are supported:
-        1 - for The Standard Code;
-        5 - for The Invertebrate Mitochondrial Code
-	
-	Details please refer to http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=tgencodes#SG2
+        1 - for The Standard Genetic Code;
+        5 - for The Invertebrate Mitochondrial Genetic Code
+ - Details about the codon table please refer to http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=tgencodes#SG2
 
 ## Citation
 
