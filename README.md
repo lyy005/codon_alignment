@@ -1,4 +1,4 @@
-# Performing codon-based alignment using coding sequences
+# Codon-based alignment using coding sequences
 
 **Lastest version can be downloaded here:**
 https://github.com/lyy005/codon_alignment/releases
