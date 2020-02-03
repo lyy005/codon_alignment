@@ -22,7 +22,7 @@ Li Y, Zhang R, Liu S, Donath A, Peters RS, Ware J, Misof B, Niehuis O, Pfrender 
  - Download MAFFT (https://mafft.cbrc.jp/alignment/software/) and added the executable file mafft-linsi to current directory (i.e. codon_alignment directory).
 
 ## Quick start: 
-perl codon_alignment.pl [cds fas] [codon table id] [minimum coverage]
+	perl codon_alignment.pl [cds fas] [codon table id] [minimum coverage]
 
  - [cds fas] 	    CDS sequences in fasta file
  - [codon table id]    1 for Standard Code, 5 for Invertebrate Mitochondrial Code
@@ -31,6 +31,9 @@ perl codon_alignment.pl [cds fas] [codon table id] [minimum coverage]
 
 ## Example:
  - Go to the example file directory 
- - cd ./examples
+
+		cd ./examples
+		
  - Make multiple sequence alignments based on COX1 gene (mitochondrial codon table) and remove the sequences with < 70% non-gap basepairs
- - ../codon_alignment.pl COX1.fasta 5 0.7
+ 
+ 		../codon_alignment.pl COX1.fasta 5 0.7
