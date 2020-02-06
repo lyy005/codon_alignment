@@ -1,4 +1,4 @@
-# Codon-based Alignment (TACO)
+# Codon-based Alignment Pipeline
 
 **For the lastest version of TACO, please go to:**
 https://github.com/lyy005/codon_alignment/releases
