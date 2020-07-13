@@ -43,4 +43,4 @@ Li, Y., Zhang, R., Liu, S., Donath, A., Peters, R.S., Ware, J., Misof, B., Niehu
 
 Li, Y., Zhang, R., Liu, S., Donath, A., Peters, R.S., Ware, J., Misof, B., Niehuis, O., Pfrender, M.E. and Zhou, X., 2017. The molecular evolutionary dynamics of oxidative phosphorylation (OXPHOS) genes in Hymenoptera. BMC evolutionary biology, 17(1), p.269.
 
-Katoh, K., and Standley, D.M., 2013. MAFFT multiple sequence alignment software version 7: improvements in performance and usability." Molecular biology and evolution 30(4), p.772-780.
+Katoh, K., and Standley, D.M., 2013. MAFFT multiple sequence alignment software version 7: improvements in performance and usability. Molecular biology and evolution 30(4), p.772-780.
